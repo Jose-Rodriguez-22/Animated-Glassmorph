@@ -25,6 +25,6 @@ https://user-images.githubusercontent.com/96680710/223325561-e5f4dc98-640a-48e1-
 ---
 :chart:
 
-Future applciations:
+Future applications:
 - i do plan to use this style for another personal portfolio that goes in depth of other projects, which means relearning user input and storing user information 
 through Django's authentication system as i've done with the Money Count project
